@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Boycey",
+      "last_name": null,
+      "gender": null,
+      "u_id": "7168",
+      "birthdate": "1996"
+    },
+    {
+      "id": 2,
+      "first_name": "Matthew",
+      "last_name": null,
+      "gender": null,
+      "u_id": "75",
+      "birthdate": "1999"
+    },
+    {
+      "id": 3,
+      "first_name": "Halimeda",
+      "last_name": null,
+      "gender": "Female",
+      "u_id": "8",
+      "birthdate": "1981"
+    },
+    {
+      "id": 4,
+      "first_name": "Renado",
+      "last_name": null,
+      "gender": "Male",
+      "u_id": "5388",
+      "birthdate": "1900"
+    },
+    {
+      "id": 5,
+      "first_name": "Romeo",
+      "last_name": "Slide",
+      "gender": "Male",
+      "u_id": "9",
+      "birthdate": "1991"
+    },
+    {
+      "id": 6,
+      "first_name": "Helene",
+      "last_name": null,
+      "gender": null,
+      "u_id": "735",
+      "birthdate": "1991"
+    },
+    {
+      "id": 7,
+      "first_name": "Laurent",
+      "last_name": "Prine",
+      "gender": "Female",
+      "u_id": "63242",
+      "birthdate": "1981"
+    },
+    {
+      "id": 8,
+      "first_name": "Ned",
+      "last_name": null,
+      "gender": "Male",
+      "u_id": "59",
+      "birthdate": "1901"
+    },
+    {
+      "id": 9,
+      "first_name": "Giulio",
+      "last_name": null,
+      "gender": null,
+      "u_id": "54",
+      "birthdate": "1992"
+    },
+    {
+      "id": 10,
+      "first_name": "Delete",
+      "last_name": "Me",
+      "gender": "Female",
+      "u_id": "7060",
+      "birthdate": "1990"
+    },
+    {
+      "id": 11,
+      "first_name": "Evita",
+      "last_name": "Deinert",
+      "gender": "Female",
+      "u_id": "99050",
+      "birthdate": "1999"
+    },
+    {
+      "id": 12,
+      "first_name": "Melba",
+      "last_name": null,
+      "gender": "Female",
+      "u_id": "325",
+      "birthdate": "1997"
+    },
+    {
+      "id": 13,
+      "first_name": "Olenolin",
+      "last_name": null,
+      "gender": null,
+      "u_id": "9575",
+      "birthdate": "1989"
+    },
+    {
+      "id": 14,
+      "first_name": "Laurent",
+      "last_name": null,
+      "gender": null,
+      "u_id": "134",
+      "birthdate": "1997"
+    },
+    {
+      "id": 15,
+      "first_name": "Krista",
+      "last_name": "Paulack",
+      "gender": null,
+      "u_id": "47",
+      "birthdate": "1987"
+    },
+    {
+      "id": 16,
+      "first_name": "Efren",
+      "last_name": "Gally",
+      "gender": null,
+      "u_id": "26185",
+      "birthdate": "1991"
+    },
+    {
+      "id": 17,
+      "first_name": "Jeromy",
+      "last_name": "Boughtwood",
+      "gender": "Non-binary",
+      "u_id": "80",
+      "birthdate": "1991"
+    },
+    {
+      "id": 18,
+      "first_name": "Augusto",
+      "last_name": null,
+      "gender": "Male",
+      "u_id": "21",
+      "birthdate": "1997"
+    },
+    {
+      "id": 19,
+      "first_name": "Wolf",
+      "last_name": null,
+      "gender": null,
+      "u_id": "9945",
+      "birthdate": "1995"
+    },
+    {
+      "id": 20,
+      "first_name": "Waring",
+      "last_name": null,
+      "gender": "Genderqueer",
+      "u_id": "77",
+      "birthdate": "1987"
+    }
+  ]
+}
